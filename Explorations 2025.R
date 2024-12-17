@@ -62,3 +62,4 @@ ggplot(df_explorations, aes(x = protection_average_m, y = currentsum)) +
 ## SEM ####
 install.packages("lavaan")
 library(lavaan)
+
